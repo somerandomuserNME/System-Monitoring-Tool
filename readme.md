@@ -10,7 +10,7 @@ How to run the program and Expected Results:
  Then to run it, you'll enter "./myProgram" to run the default program
 
  The command-line commands include:
- [samples] [tdelay] [--memory] [--cpu] [--cores] [--samples=N] [--tdelay=T]
+ [[samples] [tdelay]] [--memory] [--cpu] [--cores] [--samples=N] [--tdelay=T]
 
  Based on these commands, they dictate which pieces of the code is run, like if you only run --memory, then only the memory
  graph will be displayed, or --cpu will lead to only the cpu graph being displayed or cores will lead to only the cores being 
