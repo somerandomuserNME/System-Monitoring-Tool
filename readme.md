@@ -1,8 +1,8 @@
 NOTE: This is a program that only runs in linux (So either your OS is Linux or you need to use SSH to connect to a linux server)
 
 Summary of Project:
-This project is about creating a monitoring tool in the terminal that retrieves system data overtime and with specific delays
-about memory usage, cpu data, and core data and representing this data in a graph that gets updated every delay (represents core
+This program a monitoring tool in the terminal that retrieves system data overtime and with specific delays
+about memory usage, cpu data, and core data and represents this data in a graph that gets updated every delay (represents core
 data through the use of a diagram)
 
 -------------------------------------------------------------------------------------------------------------------------------------------
